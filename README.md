@@ -1,1 +1,1 @@
-# Stock_sentiment_analysis
+# Stock-Sentiment-Analysis
